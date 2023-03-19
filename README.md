@@ -2,10 +2,16 @@
 Solving a challenge for the Data Scientist role
 
 
-## Enviroment creation
+## Enviroment
 
-In command line execute
+For environment creation, in command line execute:
 
 ```
 conda env create -f environment/environment.yml
 ```
+
+To activate this environment, use:
+```
+conda activate pi-challenge-env
+```
+
