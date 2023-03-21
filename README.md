@@ -26,3 +26,7 @@ conda activate pi-challenge-env
     
     ├── notebooks        <- Python Jupyter Notebooks 
 
+
+## Challenge resolution
+
+The challenge was solved using jupyter notebooks locally, but it can be executed in any environment with "Jupyter Notebook" using the environment defined in "environment.yml".
