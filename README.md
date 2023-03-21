@@ -15,3 +15,14 @@ To activate this environment, use:
 conda activate pi-challenge-env
 ```
 
+## Folders
+
+    ├── data        <- Data input and output for model
+    │       └── raw
+    │       └── processed
+    │       └── preprocessed
+    │       └── models
+    │       └── test_predictions
+    
+    ├── notebooks        <- Python Jupyter Notebooks 
+
